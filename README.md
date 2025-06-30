@@ -6,7 +6,7 @@ This Terraform project demonstrates how to:
 - Use it twice
 - Deploy it to different AWS regions using provider aliases
 
-### 🧱 Project Structure
+### Project Structure
 
 ```bash
 .
