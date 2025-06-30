@@ -12,23 +12,13 @@ This Terraform project demonstrates how to:
 .
 tf-multi-region-module/
 ├── main.tf
+├── variables.tf
 ├── outputs.tf
 ├── modules/
 │   └── s3_bucket/
 │       ├── outputs.tf
 │       └── variables.tf
 ```
-
-tf-multi-region-module/
-├── main.tf
-├── variables.tf
-├── outputs.tf
-└── modules/
-    └── s3_bucket/
-        ├── main.tf
-        ├── variables.tf
-        └── outputs.tf
-
 
 ### AWS Regions
 
