@@ -8,6 +8,17 @@ This Terraform project demonstrates how to:
 
 ### 🧱 Project Structure
 
+```bash
+.
+tf-multi-region-module/
+├── main.tf
+├── outputs.tf
+├── modules/
+│   └── s3_bucket/
+│       ├── outputs.tf
+│       └── variables.tf
+```
+
 tf-multi-region-module/
 ├── main.tf
 ├── variables.tf
